@@ -1,5 +1,5 @@
-Encode-VN Perl
-==============
+Encode::VN Perl
+===============
 
 [![CPAN version][version-svg]][version-link]
 [![Build Status][build-status-svg]][build-status-link]
