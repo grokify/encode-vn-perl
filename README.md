@@ -36,13 +36,13 @@ ENCODINGS
 This version includes the following encoding tables:
 
 ```
-Canonical        Alias                       Description
------------------------------------------------------------------------------
-x-viet-vni       /\bVNI(-ANSI)?$/i           VNI ANSI (Win/Unix)
-x-viet-vni-ascii /\bVNI-ASCII$/i             VNI ASCII (DOS)
-x-viet-vni-mac   /\bVNI-Mac$/i               VNI Mac
-x-viet-vni-email /\bVNI-Email$/i             VNI Internet Mail (Win/Unix/Mac)
-x-viet-vps       /\bVPS$/i                   Vietnamese Professionals Society
+Canonical        | Alias             | Description
+-----------------|-------------------|-----------------------------------------
+x-viet-vni       | /\bVNI(-ANSI)?$/i | VNI ANSI (Win/Unix)
+x-viet-vni-ascii | /\bVNI-ASCII$/i   | VNI ASCII (DOS)
+x-viet-vni-mac   | /\bVNI-Mac$/i     | VNI Mac
+x-viet-vni-email | /\bVNI-Email$/i   | VNI Internet Mail (Win/Unix/Mac)
+x-viet-vps       | /\bVPS$/i         | Vietnamese Professionals Society
 ```
 
 ## SEE ALSO
