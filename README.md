@@ -8,7 +8,7 @@ Encode::VN Perl
 
 ## NAME
 
-`Encode::VN` - Extra sets of Vietnamese encodings using Unicode Mapping (UCM) files
+`Encode::VN` - Extra sets of Vietnamese encodings using Unicode Mapping `.ucm` files
 
 ## VERSION
 
