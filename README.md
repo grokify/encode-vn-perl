@@ -8,11 +8,11 @@ Encode::VN Perl
 
 ## NAME
 
-`Encode::VN` - Extra sets of Vietnamese encodings
+`Encode::VN` - Extra sets of Vietnamese encodings using Unicode Mapping (UCM) files
 
 ## VERSION
 
-This document describes version 0.06 of Encode::VN, released September 15, 2013.
+This document describes version 0.06 of `Encode::VN`, released September 15, 2013.
 
 ## SYNOPSIS
 
@@ -31,7 +31,7 @@ Perl 5.7.3 and later ship with an adequate set of Vietnamese encodings, includin
 
 However, there are additional Vietnamese encodings that are used and may be encountered; hence, this CPAN module tries to provide the rest of them.
 
-ENCODINGS
+## ENCODINGS
 
 This version includes the following encoding tables:
 
